@@ -11,4 +11,4 @@ $ python3 Nmap_scanner.py
 $ sudo python3 Nmap_scanner.py
 ```
 ## Output
-![Output of Comprehensive Scan] https://github.com/Hadiqa-khan/NMAP-Automation-Tool/blob/main/output.png
+![Output of Comprehensive Scan](https://github.com/Hadiqa-khan/NMAP-Automation-Tool/blob/main/output.png)
